@@ -32,8 +32,13 @@ Illustrate the hierarchical structure of the ACCS folder.
 ![Folder Structure](./ReadMe_images/Folder_structure.tiff)
 
 ## Description of the macro script folder
-The ACCS.ijm is stored in the macro script folder. The ACCS.ijm is the system code and written by ImageJ Macro Language.
+The ACCS.ijm is stored in the macro script folder. The ACCS.ijm is the system code and written by ImageJ Macro Language (IJM).
 
 ## Description of the model images for machine learning folder
 15 image data used create learning data are stored in the model images for machine learning folder. 
 
+## Description of the model images for output folder
+Images after measurement are output to the model images for output folder.
+
+## Description of the model images for preparation folder
+In the preparation folder, a model of learning data (classifier.model), trace information (trace information.arff) and an image for starting TWS are stored.
