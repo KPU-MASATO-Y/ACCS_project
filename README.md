@@ -20,12 +20,12 @@ This program is opened in the hope that it will be useful, but without any warra
 The hierarchical structure of the ACCS folder is designed as follows.
 * Desktop
   * ACCS
-     * macro script
-     * model images for machine learning
-     * output
-     * preparation
-     * segmentation
-     * test
-     * unsharp mask
+    * macro script
+    * model images for machine learning
+    * output
+    * preparation
+    * segmentation
+    * test
+    * unsharp mask
   
 
