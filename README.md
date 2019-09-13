@@ -28,6 +28,8 @@ The hierarchical structure of the ACCS folder is designed as follows.
     * test
     * unsharp mask
  
-Illustrate the hierarchical structure of the ACCS folder.
-![Folder Structure](./)
+Illustrate the hierarchical structure of the ACCS folder.  
+![Folder Structure](./ReadMe_images/Folder_structure.tiff)
+
+
 
