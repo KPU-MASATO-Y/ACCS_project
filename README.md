@@ -27,5 +27,7 @@ The hierarchical structure of the ACCS folder is designed as follows.
     * segmentation
     * test
     * unsharp mask
-  
+ 
+Illustrate the hierarchical structure of the ACCS folder.
+
 
