@@ -56,4 +56,7 @@ Unsharp masked images are output to the unsharp mask folder.
 # **Usage and Tutorial**
 1. Save the images to be measured in the test folder of the ACCS folder.
 2. Start Fiji.
-3.
+3. Open ACCS.ijm script.
+4. Run ACCS.ijm script.
+5. Start measurement according to the instructions displayed on the screen.
+6
