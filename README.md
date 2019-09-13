@@ -4,4 +4,4 @@ The ACCS means "automatic cell counting system with the machine learning". The A
 
 ## Install
 1.  Install Fiji on the computer. Fiji can be downloaded from https://fiji.sc. See https://imagej.net/Fiji/Downloads for how to install Fiji. TWS is included in the Fiji plugin.
-2.  
+2.  Download the ACCS folder from Github. Put the ACCS folder on the desktop of the computer.  
