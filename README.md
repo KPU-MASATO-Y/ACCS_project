@@ -29,5 +29,5 @@ The hierarchical structure of the ACCS folder is designed as follows.
     * unsharp mask
  
 Illustrate the hierarchical structure of the ACCS folder.
-
+![Folder Structure](./)
 
