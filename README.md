@@ -19,4 +19,12 @@ This program is opened in the hope that it will be useful, but without any warra
 ## Description of the ACCS folder
 The hierarchical structure of the ACCS folder is designed as follows.
 * ACCS
-  ** macro script
+  * macro script
+  * model images for machine learning
+  * output
+  * preparation
+  * segmentation
+  * test
+  * unsharp mask
+  
+
