@@ -6,10 +6,10 @@ The ACCS means "automatic cell counting system with the machine learning". The A
 This program is opened in the hope that it will be useful, but without any warranty. This system occupies the computer CPU and memory.
 
 ## Operating environment
-Operating system : Windows 10 Home (64bit)  
-Processor        : Intel (R) Core (TM) i7-8700 CPU  
-Memory (RAM)     : 16GB DDR4  
-GPU              : NVIDIA GeForce GTX 1050Ti  
+* Operating system : Windows 10 Home (64bit)  
+* Processor        : Intel (R) Core (TM) i7-8700 CPU  
+* Memory (RAM)     : 16GB DDR4  
+* GPU              : NVIDIA GeForce GTX 1050Ti  
 
 
 ## Install
