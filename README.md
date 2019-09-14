@@ -56,7 +56,9 @@ Save the images you want to measure in the test folder. In the initial state, sa
 Unsharp masked images are output to the unsharp mask folder.
 
 ***
-# **Usage and Tutorial**
+# **Usage and Demonstration**
+
+## Usage
 1. Save the images to be measured in the test folder of the ACCS folder.
 2. Start Fiji.
 3. Open ACCS.ijm script.
@@ -66,6 +68,8 @@ Unsharp masked images are output to the unsharp mask folder.
 7. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.
 8. Save measurement results in csv format (.csv).
 
+## Demonstration
+1. Save the images to be measured in the test folder of the ACCS folder.
 
 ## References
 * J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676-682.
