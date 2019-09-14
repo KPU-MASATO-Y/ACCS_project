@@ -75,7 +75,7 @@ Unsharp masked images are output to the unsharp mask folder.
  ![Demo1](./ReadMe_images/Demo1.gif)
 
 2. Start Fiji  
- *  ![Demo2](./ReadMe_images/Demo2.gif)
+ ![Demo2](./ReadMe_images/Demo2.gif)
 
 3. Open ACCS.ijm script.
  *  File -> New -> Script
