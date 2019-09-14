@@ -101,10 +101,12 @@ Unsharp masked images are output to the unsharp mask folder.
  ![Demonstration 6]()
  
 7. Measuring. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.
- * Select the segmentation folder.
- * Select the output folder.  
  ![Demonstration 7]()
 
+8. Save measurement results.
+ * Save as Summary.csv.
+ ![Demonstration 8]()
+ 
 ## References
 * J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676-682.
 * I. Arganda-Carreras, V. Kaynig, C. Rueden, K.W. Eliceiri, J. Schindelin, A. Cardona, H. Sebastian Seung, Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification, Bioinformatics 33 (2017) 2424-2426.
