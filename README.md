@@ -75,37 +75,37 @@ Unsharp masked images are output to the unsharp mask folder.
  ![Demo1](./ReadMe_images/Demo1.gif)
 
 2. Start Fiji  
- *  ![Demonstration 2]()
+ *  ![Demo2](./ReadMe_images/Demo2.gif)
 
 3. Open ACCS.ijm script.
  *  File -> New -> Script
  *  File -> Open -> ACCS/macro script
  *  Open ACCS.ijm  
- ![Demonstration 3]()
+ ![Demo3](./ReadMe_images/Demo3.gif)
  
 4. Run ACCS.ijm script.
  * Run ACCS.ijm
  * At that time, because the consent is required, enter "yes" when you agree. If you do not agree, enter "no" and do not measure.
  * Select the preparation folder.
  * Select the test folder.  
- ![Demonstration 4]()
+ ![Demo4](./ReadMe_images/Demo4.gif)
  
 5. Start measurement according to the instructions displayed on the screen.
  * Select the unsharp mask folder.
  * Select again the unsharp mask folder.  
- ![Demonstration 5]()
+ ![Demo5](./ReadMe_images/Demo5.gif)
 
 6. Start measurement. Measurement results are displayed on the screen during measurement.
  * Select the segmentation folder.
  * Select the output folder.  
- ![Demonstration 6]()
+ ![Demo6](./ReadMe_images/Demo6.gif)
  
 7. Measuring. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.  
- ![Demonstration 7]()
+ ![Demo7](./ReadMe_images/Demo7.gif)
 
 8. Save measurement results.
  * Save as Summary.csv.  
- ![Demonstration 8]()
+ ![Demo8](./ReadMe_images/Demo8.gif)
  
 ## References
 * J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676-682.
