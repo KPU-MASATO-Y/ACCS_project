@@ -60,7 +60,7 @@ Unsharp masked images are output to the unsharp mask folder.
 4. Run ACCS.ijm script.
 5. Start measurement according to the instructions displayed on the screen. At that time, because the consent is required, enter "yes" when you agree. If you do not agree, enter "no" and do not measure.
 6. Start measurement. Measurement results are displayed on the screen during measurement.
-7. When the "measurement end" is displayed on the screen, the measurement is finished.
+7. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.
 8. Save measurement results in csv format (.csv).
 
 
