@@ -74,6 +74,12 @@ Unsharp masked images are output to the unsharp mask folder.
  *  Save the image you want to measure in this folder. This time, image data are saved in advance.
  ![Demonstration 1]()
 
+2. Start Fiji
+ *  ![Demonstration 2]()
+
+
+
+
 ## References
 * J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676-682.
 * I. Arganda-Carreras, V. Kaynig, C. Rueden, K.W. Eliceiri, J. Schindelin, A. Cardona, H. Sebastian Seung, Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification, Bioinformatics 33 (2017) 2424-2426.
