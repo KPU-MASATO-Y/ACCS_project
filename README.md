@@ -100,11 +100,11 @@ Unsharp masked images are output to the unsharp mask folder.
  * Select the output folder.  
  ![Demonstration 6]()
  
-7. Measuring. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.
+7. Measuring. When the "Please look at the items of 'Slice' and 'Count' in Summary" is displayed on the screen, the measurement is finished.  
  ![Demonstration 7]()
 
 8. Save measurement results.
- * Save as Summary.csv.
+ * Save as Summary.csv.  
  ![Demonstration 8]()
  
 ## References
