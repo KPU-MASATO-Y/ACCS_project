@@ -1,6 +1,6 @@
 # ACCS_project (In preparation)
 This repository was created for the purpose of publishing ACCS source code and learning data.
-The ACCS means "automatic cell counting system with the machine learning". The ACCS is the automatic counting system for measuring cells using Fiji (https://imagej.net/Fiji) and Trainable Weka Segmentation (TWS; https://imagej.net/Trainable_Weka_Segmentation).
+The ACCS means "automatic cell counting system with the machine learning". The ACCS is the automatic counting system for measuring cells using Fiji (https://fiji.sc) and Trainable Weka Segmentation (TWS; https://imagej.net/Trainable_Weka_Segmentation).
 
 ## Note
 This program is opened in the hope that it will be useful, but without any warranty. This system occupies the computer CPU and memory.
@@ -62,3 +62,10 @@ Unsharp masked images are output to the unsharp mask folder.
 6. Start measurement. Measurement results are displayed on the screen during measurement.
 7. When the "measurement end" is displayed on the screen, the measurement is finished.
 8. Save measurement results in csv format (.csv).
+
+
+## References
+* Fiji Copyright 2012 Schindelin, J.; Arganda-Carreras, I. & Frise, E. et al.
+* J. Schindelin, I. Arganda-Carreras, E. Frise, V. Kaynig, M. Longair, T. Pietzsch, S. Preibisch, C. Rueden, S. Saalfeld, B. Schmid, J.Y. Tinevez, D.J. White, V. Hartenstein, K. Eliceiri, P. Tomancak, A. Cardona, Fiji: an open-source platform for biological-image analysis, Nat. Methods 9 (2012) 676-682.
+* Trainable Weka Segmentation Copyright 2017 Arganda-Carreras, I., Kaynig, V., Rueden, C., Eliceiri, K. W., Schindelin, J., Cardona, A., & Seung, H. S.
+* I. Arganda-Carreras, V. Kaynig, C. Rueden, K.W. Eliceiri, J. Schindelin, A. Cardona, H. Sebastian Seung, Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification, Bioinformatics 33 (2017) 2424-2426.
