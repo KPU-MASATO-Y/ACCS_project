@@ -71,10 +71,10 @@ Unsharp masked images are output to the unsharp mask folder.
 ## Demonstration
 1. Save the images to be measured in the test folder of the ACCS folder.
  *  Open the ACCS folder and open the test folder.
- *  Save the image you want to measure in this folder. This time, image data are saved in advance.
+ *  Save the image you want to measure in this folder. This time, image data are saved in advance.  
  ![Demonstration 1]()
 
-2. Start Fiji
+2. Start Fiji  
  *  ![Demonstration 2]()
 
 
