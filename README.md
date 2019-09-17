@@ -32,7 +32,7 @@ The hierarchical structure of the ACCS folder is designed as follows.
     * unsharp mask
  
 Illustrate the hierarchical structure of the ACCS folder.  
-![Folder Structure](./ReadMe_images/Folder_structure.tiff)
+![Folder Structure](./ReadMe_images/Folder-structure.tiff)
 
 ## Description of the macro script folder
 The ACCS.ijm is stored in the macro script folder. The ACCS.ijm is the system code and written by ImageJ Macro Language (IJM). There is also ACCS_ver_text.txt in this folder. The ACCS_ver_text.txt is the ACCS.ijm saved in txt format.
