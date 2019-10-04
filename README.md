@@ -1,4 +1,4 @@
-# ACCS_project (In preparation)
+# ACCS_project
 This project was created for the purpose of publishing ACCS source code and learning data.
 The ACCS means "automatic cell counting system with the machine learning". The ACCS is the automatic counting system for measuring cells in migration assays with transwell chambers using Fiji (https://fiji.sc) and Trainable Weka Segmentation (TWS; https://imagej.net/Trainable_Weka_Segmentation).
 
